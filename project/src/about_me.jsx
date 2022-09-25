@@ -3,8 +3,10 @@ import './index.css'
 
 function AboutMe() {
     return (
-        <div className='h-screen pt-28 w-5/6 bg-blue-500 px-8'>
+        <div className='bg-blue-500 w-full'>
+            <div className='h-screen pt-28 w-5 px-8'>
 
+            </div>
         </div>
     )
 }
